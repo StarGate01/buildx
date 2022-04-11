@@ -1,2 +1,1 @@
-# buildx
-Docker buildx image
+# Docker Buildx image
